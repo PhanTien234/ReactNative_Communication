@@ -89,6 +89,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     backgroundColor: "#fff",
+    color: "#f01",
   },
   button: {
     backgroundColor: "blue",
